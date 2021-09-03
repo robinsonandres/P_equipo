@@ -2,3 +2,8 @@
 ## Primeros pasos en GitHub
 ```
 Trabajo colaborativo
+```
+## Modificaciones Adicionales
+```
+Trabajo en Equipo para el Ciclo 3
+````
